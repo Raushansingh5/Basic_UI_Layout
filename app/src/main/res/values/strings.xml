@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basic UI Layout</string>
+    <string name="raushan_singh">Raushan singh</string>
+    <string name="description">Raushan singh is a Software Engineer with 5 years of experience in mobile application development. Skilled in Kotlin, Java, and Android, he has contributed to various successful projects. John is known for his problem-solving abilities and dedication to creating efficient and user-friendly software solutions.</string>
+    <string name="todo">TODO</string>
+    <string name="description_of_employee">Description Of Employee</string>
+    <string name="details">John Doe is a Software Engineer with 5 years of experience in mobile application development. Skilled in Kotlin, Java, and Android, he has contributed to various successful projects. John is known for his problem-solving abilities and dedication to creating efficient and user-friendly software solutions.</string>
+    <string name="more_details">More Details</string>
+</resources>
